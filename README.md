@@ -1,0 +1,2 @@
+# precautionsCovid
+Precautions for Covidya
